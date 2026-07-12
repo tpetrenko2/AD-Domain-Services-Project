@@ -22,7 +22,6 @@ This project involved the design, deployment, and management of a virtualized en
 | Date | Issue | Root Cause | Resolution |
 | :--- | :--- | :--- | :--- |
 | 2026-07-11 | Hardware Incompatibility | Apple Silicon (ARM) vs x64 | Re-platformed to dedicated x64 server |
-| 2026-07-12 | No Default Gateway | Missing DHCP Option | Manually configured Router/Gateway in DHCP Scope |
 
 ## Lessons Learned
 - Gained hands-on experience in cross-platform architecture and hypervisor-level optimization.
