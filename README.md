@@ -8,8 +8,8 @@ This project involved the design, deployment, and management of a virtualized en
 ## Environment Architecture
 - **Hypervisor:** Oracle VirtualBox
 - **Infrastructure:**
-  - **Domain Controller (DC01):** Windows Server 2022
-  - **Client Workstation (CL01):** Windows 10 Pro
+  - **Domain Controller (DC01):** Windows Server 2025
+  - **Client Workstation (CL01):** Windows 11 Pro
 - **Key Services:** AD DS, DNS, DHCP, NAT/RRAS
 
 ## Technical Achievements
