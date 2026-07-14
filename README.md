@@ -23,6 +23,16 @@ This project involved the design, deployment, and management of a virtualized en
 | :--- | :--- | :--- | :--- |
 | 2026-07-11 | Hardware Incompatibility | Apple Silicon (ARM) vs x64 | Re-platformed to dedicated x64 server |
 
+## Visual Proof of Concept
+
+### Active Directory Dashboard
+This screenshot shows the Domain Controller health and the successfully installed AD DS/DNS roles.
+![Server Manager Dashboard](images/server-manager.png)
+
+### Bulk User Provisioning
+Verification of the organizational units and user objects created via PowerShell automation.
+![Active Directory and Computers](images/ad-users.png)
+
 ## Lessons Learned
 - Gained hands-on experience in cross-platform architecture and hypervisor-level optimization.
 - Mastered the interaction between core network services (DNS/DHCP) and identity management.
