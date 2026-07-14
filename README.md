@@ -27,13 +27,11 @@ This project involved the design, deployment, and management of a virtualized en
 
 ### Active Directory Dashboard
 This screenshot shows the Domain Controller health and the successfully installed AD DS/DNS roles.
-![Server Manager Dashboard](AD-Domain-Services-Project
-/server-manager.png)
+![Server Manager Dashboard](server-manager.png)
 
 ### Bulk User Provisioning
 Verification of the organizational units and user objects created via PowerShell automation.
-![Active Directory Users and Computers](AD-Domain-Services-Project
-/ad-users.png)
+![Active Directory Users and Computers](ad-users.png)
 
 ## Lessons Learned
 - Gained hands-on experience in cross-platform architecture and hypervisor-level optimization.
