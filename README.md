@@ -31,7 +31,7 @@ This screenshot shows the Domain Controller health and the successfully installe
 
 ### Bulk User Provisioning
 Verification of the organizational units and user objects created via PowerShell automation.
-![Active Directory and Computers](images/ad-users.png)
+![Active Directory Users and Computers](images/ad-users.png)
 
 ## Lessons Learned
 - Gained hands-on experience in cross-platform architecture and hypervisor-level optimization.
