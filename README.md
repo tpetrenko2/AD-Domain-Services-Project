@@ -30,7 +30,7 @@ This screenshot shows the Domain Controller health and the successfully installe
 ![Server Manager Dashboard](server-manager.png)
 
 ### Bulk User Provisioning
-Verification of the organizational units and user objects created via PowerShell automation.
+Verification of the client and server sitting on one internal network.
 ![Active Directory Users and Computers](ad-users.png)
 
 ## Lessons Learned
