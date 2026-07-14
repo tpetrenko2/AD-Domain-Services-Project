@@ -39,4 +39,4 @@ Verification of the client and server sitting on one internal network.
 - Developed the ability to troubleshoot enterprise-level service failures.
 
 ---
-*Created by [Your Name]*
+*Created by Anatoly Petrenko*
